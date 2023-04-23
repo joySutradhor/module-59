@@ -1,0 +1,14 @@
+.login{
+    display: flex;
+    flex-direction: column;
+}
+
+.login > input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+.msg{
+    width: 300px;
+}
